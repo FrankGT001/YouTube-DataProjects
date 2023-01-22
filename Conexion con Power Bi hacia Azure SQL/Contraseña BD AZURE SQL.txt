@@ -1,0 +1,7 @@
+Servidor : sqldatabi.database.windows.net
+Base de datos : DataBiSQL
+Usuario :  DataBiUser
+Contraseña : BIuser123
+
+
+
